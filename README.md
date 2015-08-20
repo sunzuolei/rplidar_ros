@@ -10,5 +10,5 @@ The driver of RPLIDAR on Robot Operation System (ROS)
 ---------------------
 
 
-##Reference and acknolegements
+##Reference and acknowlegements
 --------------------
